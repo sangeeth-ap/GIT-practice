@@ -1,1 +1,1 @@
-# GIT-practice
+# internship-project
